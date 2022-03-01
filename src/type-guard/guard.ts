@@ -30,7 +30,7 @@ const billingCounter = (watch : SmartWatch | AnalogWatch ) =>
     // {
     //     console.log("Analog Watch")
     // }
-
+    
     // using "as" operator
     if(isSmartWatch(watch))
     {
