@@ -1,20 +1,9 @@
-# Types vs Interface and Type Guard in Function 
+### Intro
+  This repo contains src code and resources for typescript advanced level.
 
--   Difference between type and interface
--   Using "as" operator
--   "in" operator
--   "Type Predicate" (type as a property in object)
+#### Setup
 
-can be done using other methods too.
+-  clone the repo
+-  run ```npm install```
+-  To run individual file, use ```npx ts-node filename.ts```
 
-#### Resources Used:
-
-- [Typescript Docs](https://www.typescriptlang.org/docs/handbook/advanced-types.html)
-
-- [Type Predicate](
-https://dev.to/daveturissini/aha-understanding-typescript-s-type-predicates-40ha)
-
-- [Exploring Advanced TypeScript Concepts](
-https://www.youtube.com/watch?v=eJ6R1knfsoc&t=811s&ab_channel=Headway)
-
-- [Type vs Interface](https://www.youtube.com/watch?v=crjIq7LEAYw&ab_channel=HarryWolff)
