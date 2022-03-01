@@ -5,7 +5,7 @@
 -   "in" operator
 -   "Type Predicate" (type as a property in object)
 
-can be done using other methods too.
+Type guard can be done using other methods too.
 
 #### Resources Used:
 
