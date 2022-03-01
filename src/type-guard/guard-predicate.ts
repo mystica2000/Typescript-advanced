@@ -9,7 +9,6 @@ type SmartWatch = {
     __type: "Smart";
 };
 
-
 type AnalogWatch = {
     modelId:Number;
     modelName:String;
